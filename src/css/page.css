@@ -1,0 +1,31 @@
+#pgNum {
+    margin-top: 60px;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+
+#pgNum a {
+    font-family: "urwgeometric-Semibold", sans-serif;
+    border: none;
+    color: #152D35;
+}
+
+#pgNum a:hover {
+    text-decoration: underline;
+    background-color: white;
+}
+
+#pgNum span {
+    font-family: "urwgeometric-Semibold", sans-serif;
+    border: none;
+    color: #152D35;
+}
+
+#pgNum span:hover {
+    text-decoration: underline;
+    background-color: white;
+}
+
+.pn {
+    padding: 2px 4px 0 4px;
+}

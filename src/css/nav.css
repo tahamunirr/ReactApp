@@ -1,0 +1,88 @@
+/*                                                                             NavBar                                                                           */
+/* .navbar-toggler {
+    border: none;
+} */
+
+/* Dropdown menu background color*/
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    border-left: solid 5px black;
+    background-color: #F6AE99;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link.link,
+.nav-item.dropdown .dropdown-toggle.nav-link {
+    color: #212121;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14.4px;
+    font-weight: 600;
+    padding-left: 30px;
+}
+
+#dev {
+    color: #ffb299;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14.4px;
+    font-weight: 600;
+    padding-left: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link.link:hover {
+    color: #ffb299;
+}
+
+.nav-item.dropdown .dropdown-toggle.nav-link:hover {
+    color: #ffb299;
+}
+
+
+/* Dropdown menu font color*/
+
+.navbar-expand-lg .navbar-nav .dropdown-menu a {
+    color: #212121;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14.4px;
+
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu a:hover {
+    background-color: #F6AE99;
+    color: #212121;
+    text-decoration: underline;
+}
+
+.navbar .nav-item:hover .dropdown-menu {
+    display: block;
+}
+
+.navbar.navbar-expand-lg.navbar-light.fixed-top {
+    padding: 26px 0px;
+    /* position: fixed; */
+    background-color: white;
+}
+
+#btn1.btn {
+    margin-right: 20px;
+    color: #212121;
+    border-color: #212121;
+    font-size: 14.4px;
+    padding: 12px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btn1.btn:hover {
+    color: #152D35;
+    background-color: white;
+}
+
+#btn2.btn {
+    margin-right: 20px;
+    font-size: 14.4px;
+    padding: 12px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+#btn2.btn:hover {
+    background-color: #152D35;
+}

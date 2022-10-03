@@ -1,0 +1,37 @@
+#footer {
+    font-family: "urwgeometric-Semibold", sans-serif;
+    font-size: 16px;
+    color: #b8ccc6;
+    background-color: #152D35;
+}
+
+#footer a {
+    font-family: "urwgeometric-Semibold", sans-serif;
+    font-size: 14px;
+    color: #b8ccc6;
+    text-decoration: none;
+    padding: 3px 0;
+}
+
+#footer li {
+    display: inline;
+    list-style: none;
+    margin-right: 0.5rem;
+}
+
+#footer a:before {
+    content: "\2022";
+    margin-right: 0.5rem;
+    color: #ffb299;
+}
+
+#footer p {
+    font-family: "urwgeometric-Semibold", sans-serif;
+    font-size: 14px;
+    color: #b8ccc6;
+    text-decoration: none;
+    padding: 3px 0;
+    display: inline;
+    list-style: none;
+    margin-right: 0.5rem;
+}
